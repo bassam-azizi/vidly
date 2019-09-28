@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/vidly/static/css/main.b100e6da.chunk.css",
+    "main.js": "/vidly/static/js/main.53ff8c38.chunk.js",
+    "main.js.map": "/vidly/static/js/main.53ff8c38.chunk.js.map",
+    "runtime-main.js": "/vidly/static/js/runtime-main.617814cd.js",
+    "runtime-main.js.map": "/vidly/static/js/runtime-main.617814cd.js.map",
+    "static/css/2.e02f45ba.chunk.css": "/vidly/static/css/2.e02f45ba.chunk.css",
+    "static/js/2.8767642f.chunk.js": "/vidly/static/js/2.8767642f.chunk.js",
+    "static/js/2.8767642f.chunk.js.map": "/vidly/static/js/2.8767642f.chunk.js.map",
+    "index.html": "/vidly/index.html",
+    "precache-manifest.0803c488f1d18fc631b12e8daa87f39a.js": "/vidly/precache-manifest.0803c488f1d18fc631b12e8daa87f39a.js",
+    "service-worker.js": "/vidly/service-worker.js",
+    "static/css/2.e02f45ba.chunk.css.map": "/vidly/static/css/2.e02f45ba.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/vidly/static/css/main.b100e6da.chunk.css.map",
+    "static/media/font-awesome.css": "/vidly/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
