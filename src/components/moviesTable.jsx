@@ -13,12 +13,12 @@ class MoviesTable extends Component {
   ];
 
   render() {
-    const { movies, onLike, onDelete, sortedColumns, onSort } = this.props;
+    const { movies, onLike, onDelete, sortedColumn, onSort } = this.props;
     return (
       <table className="table table-condensed m-15">
         <TableHeader
           columns={this.columns}
-          sortedColumns={sortedColumns}
+          sortedColumn={sortedColumn}
           onSort={onSort}
         />
         <tbody>
